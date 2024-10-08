@@ -1,0 +1,19 @@
+name: flutter_pin_code_fields
+description: Flutter Pin Code Fields
+version: 0.0.1
+homepage: https://github.com/cengizhanerturan/flutter_pin_code_fields.git
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  nb_utils: ^6.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
